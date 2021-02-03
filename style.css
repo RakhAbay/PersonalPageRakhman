@@ -195,7 +195,7 @@ td {
 
 .links {
   position: relative;
-  top: -13px;
+  top: -28px;
   background-color: #19181f;
   display: inline-block;
   height: 430px;
@@ -213,7 +213,7 @@ td {
 }
 .not {
   position: relative;
-  top: -151px;
+  top: -165px;
   text-align: center;
   background-color: #19181f;
   display: inline-block;
